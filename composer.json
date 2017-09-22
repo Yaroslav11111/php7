@@ -1,0 +1,19 @@
+{
+    "name": "snizhko/test",
+    "description": "test composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yaroslav11111",
+            "email": "snizhko@hotmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "sn\\": ""
+        }
+    }
+}
